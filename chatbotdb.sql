@@ -61,4 +61,5 @@ INSERT INTO database_caelius (question, answer) VALUES
 ('What is the difference between an ArrayList and a Vector?', 'ArrayList is not synchronized and is not thread-safe, while Vector is synchronized and is thread-safe.');
 Insert into database_caelius(question,answer) values ('Hello','Hello, how i can assist you today?');
 insert into database_caelius(question,answer) values ('What is your name?','My name is ChatBot Caelius');
+insert into database_caelius (question,answer) values ('How are you?','I am fine,thank you');
 
